@@ -1,0 +1,3 @@
+NanoTool © 2024 by Alessandro Bertarelli is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This program is distributed as-is in this format as a windows x64 executable. In the same GitHub repository, the source code can be found and used under the same conditions.
